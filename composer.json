@@ -20,7 +20,7 @@
   "require": {
     "php": ">=5.5",
     "phpoffice/phpexcel": "^1.8.1",
-    "laravel/framework": "^5.0",
+    "laravel/framework": "^5.0|^6.0|^7.0|^8.0",
     "jeremeamia/superclosure": "^2.3",
     "nesbot/carbon": "~1.0|^2.0",
     "tijsverkoyen/css-to-inline-styles": "~2.0"
