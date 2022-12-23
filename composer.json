@@ -17,9 +17,15 @@
       "email": "patrick@maatwebsite.nl"
     }
   ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/useinsider/PHPExcel"
+    }
+  ],
   "require": {
     "php": ">=5.5",
-    "phpoffice/phpexcel": "^1.8.1",
+    "phpoffice/phpexcel": "^1.8.2",
     "laravel/framework": "^5.0|^6.0|^7.0|^8.0",
     "jeremeamia/superclosure": "^2.3",
     "nesbot/carbon": "~1.0|^2.0",
